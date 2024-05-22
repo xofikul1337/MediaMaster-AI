@@ -1,7 +1,9 @@
-<h1>MediaMaster AI Telegram Bot</h1>
+<h2>MediaMaster AI Telegram Bot</h2>
+![IMG_20240520_210142_274](https://github.com/xofikul1337/MediaMaster-AI/assets/168334396/59417dcf-ed09-49e5-bf9a-a87dfef2dd0a)
+
 <p><strong>MediaMaster AI</strong> is a powerful Telegram bot developed by Shofikul Islam, founder of Team X1337, that provides a comprehensive suite of social media marketing services to help businesses and individuals grow their online presence. With its user-friendly interface and extensive features, MediaMaster AI simplifies social media management and streamlines marketing campaigns.</p>
 
-<p><strong>Developed By:</strong> Shofikul Islam (Founder, Team X1337). Search for Shofikul Islam or Team X1337 on Google to learn more.</p>
+<p><strong>Developed By:</strong> Shofikul Islam (Founder, Team X1337). </p>
 <p><strong>MediaMaster AI Bot Link:</strong> <a href="https://t.me/MediaMasterAi_bot">https://t.me/MediaMasterAi_bot</a></p>
 
 <h2>Key Features</h2>
